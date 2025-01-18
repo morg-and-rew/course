@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5356008243395096148
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8295796062334711353, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: _template
+      value: 
+      objectReference: {fileID: 5643249372634421925}
+    - target: {fileID: -8295796062334711353, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: _explosionForce
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: -8295796062334711353, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: _explosionRadius
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 3081969816842778729, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: m_UseGravity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3081969816842778729, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3695651427517432229, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3695651427517432229, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3695651427517432229, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 3695651427517432229, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3695651427517432229, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3695651427517432229, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3695651427517432229, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3695651427517432229, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3695651427517432229, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3695651427517432229, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4235079962182932628, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: m_Name
+      value: NewObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 7115853776123499043, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: _exlosionRadius
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 7115853776123499043, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      propertyPath: _explosionForse
+      value: 1000
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4235079962182932628, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5574505474962305154}
+    - targetCorrespondingSourceObject: {fileID: 4235079962182932628, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5643249372634421925}
+    - targetCorrespondingSourceObject: {fileID: 4235079962182932628, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5666838526747218276}
+  m_SourcePrefab: {fileID: 100100000, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+--- !u!1 &8111646858845697728 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4235079962182932628, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+  m_PrefabInstance: {fileID: 5356008243395096148}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5574505474962305154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111646858845697728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3aea566bd794a444843761ba74390a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _explosionRadius: 500
+  _explosionForce: 500
+--- !u!114 &5643249372634421925
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111646858845697728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b36a783a560ecd42b600b46d8010c15, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _enemyPrefab: {fileID: 8727354279045066737}
+--- !u!114 &5666838526747218276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8111646858845697728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 981dd8bcf969b394295b94a38005fafb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &8727354279045066737 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3695651427517432229, guid: 0400217b34a6f4f4abb145891d4af4e6, type: 3}
+  m_PrefabInstance: {fileID: 5356008243395096148}
+  m_PrefabAsset: {fileID: 0}
